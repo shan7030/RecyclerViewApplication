@@ -3,6 +3,6 @@ This is Implementation of Recycler View using Card View Android to load the list
 
 For ex. :
 
-![alt text](https://drive.google.com/drive/u/0/my-drive)
+![alt text](https://github.com/shan7030/RecyclerViewApplication/blob/master/app/src/main/res/drawable/one.png)
 
-![alt text](https://drive.google.com/drive/u/0/my-drive)
+![alt text](https://github.com/shan7030/RecyclerViewApplication/blob/master/app/src/main/res/drawable/two.png)
